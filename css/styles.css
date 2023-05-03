@@ -4,6 +4,7 @@ body {
     font-size: 12px;
     line-height: 1.7;
     letter-spacing: 0.03em;
+    background-image: url("/photo/photo_5384087276629379664_y.jpg");
 }
 
 h1,
@@ -18,13 +19,23 @@ li {
     margin: 0;
     padding: 0;
 }
-/* .container {
-    width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
+.container {
+    
+    
+    padding-left: 5px;
+    padding-right: 5px;
     margin-left: auto;
     margin-right: auto;
-} */
-.container {
-    background-image: url("/photo/photo_5384087276629379664_y.jpg");
+}
+
+.header{
+    color: brown;
+}
+.logo :hover{
+    
+    font-family: 'Dancing Script', cursive;
+font-size: 48px;
+}
+.logo, .link {
+    text-decoration: none;
 }
