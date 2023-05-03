@@ -29,8 +29,13 @@ li {
     margin-right: auto;
 } */
 
-.header{
+/* .header{
     color: brown;
+} */
+
+.list{
+    color: aqua;
+    font-size: 16px;
 }
 .logo {
     color: palevioletred;
@@ -40,8 +45,14 @@ font-size: 48px;
 .logo, .link {
     text-decoration: none;
 }
+.aboutme{
+    color: aliceblue;
+    padding-top: 15px;
+    display: block;
+    width: 400px;
+}
 .footer{ 
-    padding-top: 400px;
+    padding-top: 100px;
     display: flex;
     justify-self: start;
     align-items: baseline;
