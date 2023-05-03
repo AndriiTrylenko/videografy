@@ -1,0 +1,30 @@
+body {
+
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+/* .container {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+} */
+.container {
+    background-image: url("/photo/photo_5384087276629379664_y.jpg");
+}
